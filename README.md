@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @alkc
-- 👀 I’m not interested in topics.
-- 🌱 I’m currently not learning new things.
-- 💞️ I’m not looking to collaborate on projects.
-- 📫 No.
+> [!CAUTION]
+> Negative potential consequences of an action.
